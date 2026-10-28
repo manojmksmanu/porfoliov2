@@ -40,6 +40,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/tools/base64-tool/page.js"
+    ],
+    "/tools/regex-tool/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/tools/regex-tool/page.js"
     ]
   }
 }
