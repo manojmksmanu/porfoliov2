@@ -1,0 +1,4 @@
+{
+  "/tools/page": "app/tools/page.js",
+  "/tools/base64-tool/page": "app/tools/base64-tool/page.js"
+}
